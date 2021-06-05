@@ -2,4 +2,4 @@
 
 `cd homework_2`
 
-`python main.py or python3 main.py`
+`python main.py` or `python3 main.py`
